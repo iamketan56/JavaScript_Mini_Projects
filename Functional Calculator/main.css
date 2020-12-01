@@ -9,12 +9,13 @@ input {
   border-style: none;
 }
 #myform {
-  margin-left: 225px;
+  text-align: center;
+
   margin-top: 20px;
 }
 h1 {
   text-align: center;
   font-size: 80px;
-  margin-right: 150px;
+
   margin-top: 20px;
 }

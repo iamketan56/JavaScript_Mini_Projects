@@ -15,3 +15,5 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/Functional%20Calculator/In
 <br>
 <b>2.Digital Clock</b><br>
 https://iamketan56.github.io/JavaScript_Mini_Projects/Digital%20Clock/index.html
+<br><br>
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Functional%20Calculator/Local.PNG)

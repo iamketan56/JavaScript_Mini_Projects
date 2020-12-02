@@ -21,3 +21,4 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/Digital%20Clock/index.html
 <b>3.Tip Calculator</b><br>
 https://iamketan56.github.io/JavaScript_Mini_Projects/Tip%20Calculator/index.html
 <br><br>
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Tip%20Calculator/tip.PNG

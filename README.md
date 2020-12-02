@@ -24,4 +24,5 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/Tip%20Calculator/index.htm
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Tip%20Calculator/tip.PNG)
 <br><br>
 <b>4.Character Counter</b><br>
+https://iamketan56.github.io/JavaScript_Mini_Projects/Character%20Counter/index.html
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Character%20Counter/char.PNG)

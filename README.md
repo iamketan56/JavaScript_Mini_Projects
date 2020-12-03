@@ -32,6 +32,6 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/Color%20Changer%20Button/i
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Color%20Changer%20Button/2.PNG)
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Color%20Changer%20Button/3.PNG)
 <br><br>
-<b>6.WeekDays</b>
+<b>6.WeekDays</b><br>
 https://iamketan56.github.io/JavaScript_Mini_Projects/WeekDays/index.html
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/WeekDays/week.PNG)

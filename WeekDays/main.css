@@ -1,0 +1,28 @@
+body {
+  background-color: darkkhaki;
+}
+div {
+  background-color: thistle;
+  margin: auto auto;
+  height: auto;
+  width: 600px;
+  border-radius: 10px;
+  border-color: brown;
+  border: solid;
+  text-align: center;
+  margin-top: 100px;
+}
+#today {
+  font-size: 40px;
+}
+span {
+  color: darkgreen;
+  display: block;
+  margin-top: 30px;
+  font-size: 50px;
+}
+#quotes {
+  font-family: cursive;
+  font-size: 30px;
+  text-transform: capitalize;
+}

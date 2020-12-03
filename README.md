@@ -26,3 +26,8 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/Tip%20Calculator/index.htm
 <b>4.Character Counter</b><br>
 https://iamketan56.github.io/JavaScript_Mini_Projects/Character%20Counter/index.html
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Character%20Counter/char.PNG)
+<b>5.Color Changer Button</b><br>
+https://iamketan56.github.io/JavaScript_Mini_Projects/Color%20Changer%20Button/index.html
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Color%20Changer%20Button/1.PNG)
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Color%20Changer%20Button/2.PNG)
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Color%20Changer%20Button/3.PNG)

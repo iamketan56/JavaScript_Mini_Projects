@@ -40,3 +40,10 @@ https://iamketan56.github.io/JavaScript_Mini_Projects/WeekDays/index.html
 https://iamketan56.github.io/JavaScript_Mini_Projects/Addition%20Checker/index.html
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Addition%20Checker/corr.PNG)
 ![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/Addition%20Checker/incorr.PNG)
+<br><br>
+<b>7.To Do Lost</b><br>
+https://iamketan56.github.io/JavaScript_Mini_Projects/To%20Do%20List/index.html
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/To%20Do%20List/todo1.PNG)
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/To%20Do%20List/todo2.PNG)
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/To%20Do%20List/todo3.PNG)
+![](https://github.com/iamketan56/JavaScript_Mini_Projects/blob/main/To%20Do%20List/todo4.PNG)
